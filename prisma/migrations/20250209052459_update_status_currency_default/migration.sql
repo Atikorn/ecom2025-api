@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `order` MODIFY `currentcy` VARCHAR(191) NOT NULL DEFAULT '',
+    MODIFY `status` VARCHAR(191) NOT NULL DEFAULT '';
